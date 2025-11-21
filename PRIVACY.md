@@ -1,6 +1,6 @@
 # Privacy Policy — PR Guardian AI
 
-_Last updated: 2025-01-01_
+_Last updated: 2025-11-21_
 
 Thank you for using **PR Guardian AI**, a GitHub App designed to automate code review using AI.  
 Your privacy is important to us. This document explains what data the app processes and how it is used.
