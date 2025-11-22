@@ -47,7 +47,7 @@ GitHub triggers a webhook event:
 `pull_request` with action `opened`, `synchronize`, etc.
 
 ### **2. GitHub sends PR data to your backend**
-
+ 
 Your backend receives it on:
 
 ```
